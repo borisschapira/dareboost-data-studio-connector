@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "Dareboost API",
+    "logoUrl": "https://raw.githubusercontent.com/borisschapira/dareboost-data-studio-connector/master/logo.png",
+    "company": "Dareboost",
+    "companyUrl": "https://www.dareboost.com",
+    "addonUrl": "https://github.com/borisschapira/dareboost-data-studio-connector/blob/master/README.md",
+    "supportUrl": "https://github.com/borisschapira/dareboost-data-studio-connector/issues/new?title=Data%20Studio%20Connector%20Issue",
+    "description": "This connector uses the Dareboost API to retrieve data on the selected resource."
+  }
+}
